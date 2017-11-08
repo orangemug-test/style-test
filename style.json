@@ -41,7 +41,7 @@
       "id": "background",
       "type": "background",
       "paint": {
-        "background-color": "rgba(175, 33, 33, 1)"
+        "background-color": "rgba(50, 33, 175, 1)"
       }
     },
     {
